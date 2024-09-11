@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +67,69 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
+Portfolio Website
+This is a personal portfolio website to showcase my skills, projects, and experience as a full stack developer. It features sections for About, Skills, Projects, and Contact information.
+
+Table of Contents
+Demo
+Features
+Technologies
+Installation
+Usage
+Contact
+Demo
+You can check the live demo of my portfolio here. (Add the link to your deployed site)
+
+Features
+Responsive design for all devices
+Smooth scrolling between sections
+Animated transitions with Framer Motion
+Showcasing personal projects
+Contact form with EmailJS integration
+Social media links
+Technologies
+Frontend: React, Tailwind CSS, Framer Motion, React Scroll, React Icons
+Backend: (If applicable, list any backend technologies)
+Tools: GitHub, Vercel (or any hosting service you're using)
+Installation
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/suthanks2000/my-portfolio.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd my-portfolio
+Install dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm start
+Open your browser and go to:
+
+arduino
+Copy code
+http://localhost:3000
+Usage
+Use the navigation bar to scroll between different sections (Home, About, Skills, Projects, Contact).
+Use the Contact form to send a message directly to my email via EmailJS.
+Follow me on social media using the links provided in the footer.
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact
+Feel free to reach out for any inquiries or collaboration opportunities:
+
+Email: suthanks2000@gmail.com
+LinkedIn: https://www.linkedin.com/in/suthan-k/
+GitHub: https://github.com/suthanks2000
