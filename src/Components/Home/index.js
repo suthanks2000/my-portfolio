@@ -40,7 +40,7 @@ const Home = () => {
           animate={isInView ? { opacity: 1, x: 0 } : {}}
           transition={{ duration: 0.7 }}
         >
-          Hi, I'm Suthan K
+          Hi, I'm Suthan
         </motion.h1>
 
         <motion.h2

@@ -113,7 +113,7 @@ const About = () => {
             variants={fadeIn}
           >
             <a
-              href="/path-to-your-resume.pdf" // Ensure the path to your resume is correct
+              href="Suthan_Developer_Resume.pdf" // Ensure the path to your resume is correct
               download
               className="inline-flex items-center px-4 py-2 bg-gray-800 text-white rounded-md"
             >
