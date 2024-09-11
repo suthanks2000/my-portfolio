@@ -97,7 +97,7 @@ const Projects = () => {
       >
         <motion.h1 className="text-2xl lg:text-3xl font-bold text-darkGray">My Projects</motion.h1> {/* Reduced text size */}
         <motion.p className="text-base mt-2 text-gray-600"> {/* Reduced text size */}
-          Here are some of the projects I have worked on:
+          Here are some of the projects I have worked on
         </motion.p>
       </motion.div>
 

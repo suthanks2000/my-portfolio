@@ -153,7 +153,7 @@ const Contact = () => {
             </div>
             <button
               type="submit"
-              className="lg:w-1/2 w-full  bg-gray-900 text-white py-2 rounded-lg hover:bg-blue-600 transition-colors flex justify-center items-center"
+              className="lg:w-1/2 w-full  bg-gray-900 text-white py-2 rounded-lg hover:bg-slate-600 transition-colors flex justify-center items-center"
             >
  {loading ? (
     <AiOutlineLoading3Quarters className="animate-spin mr-2" />
