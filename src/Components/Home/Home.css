@@ -1,0 +1,49 @@
+/* Define keyframes for water flow effect */
+/* @keyframes waterFlow {
+    0% {
+      background-position: 0% 0%;
+
+      }
+    100% {
+      background-position: 100% 100%;
+    }
+  } */
+  
+  /* Water flow effect */
+  /* .water-flow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, rgba(255, 255, 255, 0.1), rgba(0, 0, 255, 0.1));
+    background-size: 200% 200%;
+    animation: waterFlow 4s linear infinite;
+    z-index: 1;
+  } */
+
+  .my-profile{
+    background-image: url('../../../public/profile_bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    box-shadow: inset 0 0 0 9px rgb(255 255 255 / 60%);
+    order: 1;
+    justify-self: center;
+    width: 450px;
+    height: 450px;
+    animation: profile_animate 8s ease-in-out infinite 1s;
+
+  }
+
+  @keyframes profile_animate {
+    0% {
+        border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
+    }
+    50% {
+        border-radius: 30% 60% 70% 40%/50% 60% 30% 60%;
+    }
+    100% {
+        border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
+    }
+  }
